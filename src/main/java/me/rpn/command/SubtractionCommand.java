@@ -8,6 +8,9 @@ import java.util.LinkedList;
 
 import static java.math.BigDecimal.ROUND_HALF_EVEN;
 
+/**
+ * 减法
+ */
 public class SubtractionCommand extends AbstractCommand implements Command {
 
   public SubtractionCommand(PackageStack packageStack) {
