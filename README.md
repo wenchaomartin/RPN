@@ -69,8 +69,8 @@
    1. [java-bigDecimal-round](https://stackoverflow.com/questions/4134047/java-bigdecimal-round-to-the-nearest-whole-value)
    1. [sqrt in BigDecimal](https://stackoverflow.com/questions/13649703/square-root-of-bigdecimal-in-java)
  
- #### 
-   1.[junit test throw an exception](https://www.codejava.net/testing/junit-test-exception-examples-how-to
-   -assert-an-exception-is-thrown)
+ #### test
+ 
+   1. [junit test throw an exception](https://www.codejava.net/testing/junit-test-exception-examples-how-to-assert-an-exception-is-thrown)
  
   
