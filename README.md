@@ -20,7 +20,7 @@
    #### Memento java  
   
     ```
-    # 将 myObject 包装了一下
+    // 将 myObject 包装了一下
     public class Memento {
     
         MyObject myObject;
@@ -34,7 +34,7 @@
         }
     }
     
-      # Command java
+      // Command java
       public abstract class Command {
       
           MyObject myObject; //memnto 中 myobject的镜象
