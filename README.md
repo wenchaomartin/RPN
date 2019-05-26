@@ -8,7 +8,7 @@
 2. 邓俊辉老师视频有对RPN的介绍：[看完基本思路就很明确了](https://www.bilibili.com/video/av41572620/?p=133)
     
 
-### 解题思路
+#### 解题思路
 
 1. 数字直接进栈，遇到操作符 则之前的数字出栈在与操作符计算 压栈
     1. 解决undo 撤销 问题
@@ -17,7 +17,7 @@
     
   undo 思路来源于[Memento and command pattern](https://stackoverflow.com/questions/3448943/best-design-pattern-for-undo-feature)  
     
-   ####Memento java  
+   #### Memento java  
   
     ```
     # 将 myObject 包装了一下
@@ -58,7 +58,7 @@
   1. https://stackoverflow.com/questions/7374545/the-undo-and-redo-implementation-in-java
   1. https://www.codeproject.com/Articles/8303/Using-the-Command-pattern-for-undo-functionality
   
- ####java BigDecimal 遇到的问题
+ #### java BigDecimal 遇到的问题
  
   [BigDecimal get started](http://www.opentaps.org/docs/index.php/How_to_Use_Java_BigDecimal:_A_Tutorial)
    1. [why we need BigDecimal](https://stackoverflow.com/questions/3413448/double-vs-bigdecimal)
@@ -68,9 +68,9 @@
    1. [How_to_remove_trailing_zero_from_BigDecimal](https://java2blog.com/java-bigdecimal/#How_to_remove_trailing_zero_from_BigDecimal)
    1. [java-bigDecimal-round](https://stackoverflow.com/questions/4134047/java-bigdecimal-round-to-the-nearest-whole-value)
    1. [sqrt in BigDecimal](https://stackoverflow.com/questions/13649703/square-root-of-bigdecimal-in-java)
-  
- ####test
  
-   1.[junit test throw an exception](https://www.codejava.net/testing/junit-test-exception-examples-how-to-assert-an-exception-is-thrown)
+ #### 
+   1.[junit test throw an exception](https://www.codejava.net/testing/junit-test-exception-examples-how-to
+   -assert-an-exception-is-thrown)
  
   
